@@ -21,5 +21,7 @@ hosts:   [cal!](https://rentry.co/galaxybat),   [adam](https://github.com/gu
 
 <p align="center"
 
+our skins represent who's fronting
+<br>
 check out our [pony town rentry](https://rentry.co/-thegraveyard) ok?
 </p>
