@@ -16,7 +16,7 @@ moved everything from [patreon](https://patreon.com/mandela_county) to here
   
 hi!   we're  the  vhs  collection!
 <br>
-hosts:   [adam](https://intruderalert.carrd.co),   [luna!](https://rentry.co/galaxybat),   [jonah](https://rentry.co/90s-web)
+hosts:   [adam](https://intruderalert.carrd.co),   [kieru!](https://rentry.co/galaxybat),   [jonah](https://rentry.co/90s-web)
 </p>
 
 <p align="center"
